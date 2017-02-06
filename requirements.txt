@@ -1,0 +1,2 @@
+# This requirements file lists all dependencies for this project.
+bottle
